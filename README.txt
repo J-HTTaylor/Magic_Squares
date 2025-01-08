@@ -1,12 +1,11 @@
-README.txt
 *****************
-*Warmup
+*Magic Squares
 *CS 221-001
 *30/08/24
 *James Taylor
 *****************
 OVERVIEW:
-Warm up is a System that will allow an end-user to create magic squares with odd numbers. It will also allow them to check files to see if they are valid 'magic squares'. On both occasions it will print the magic square and if it is valid. This code implements the MagicSquareInterface. 
+MagicSquare is a System that will allow an end-user to create magic squares with odd numbers. It will also allow them to check files to see if they are valid 'magic squares'. On both occasions it will print the magic square and if it is valid. This code implements the MagicSquareInterface. 
 
 INCLUDED FILES:
 *MagicSquare.java -method file (backend)
